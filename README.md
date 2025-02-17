@@ -15,7 +15,7 @@ This is a NestJS application for managing shipments. It uses TypeORM for databas
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/TarikElmelih/almanara.git
    cd almanara
    ```
 
