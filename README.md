@@ -1,5 +1,7 @@
 # Almanara Project
 
+![Almanara Logo](https://ci3.googleusercontent.com/meips/ADKq_NYM11xsGMrTdbgaJAs6y8XjQvd9aT0MC5fYPevxH36ju_X1eh-fAUFHaMvj8gHROF5Cjthm17S54uZcD0sjuy6y6X6a6RIYt-1a4EANRdagtTv52B7iJgiX57KPE768WVYwUeV1wbXaKhop6bex4vuJ0Y5S=s0-d-e1-ft#https://avatars.mds.yandex.net/get-mail-signature/222735/c1b639a5525193dbf2917172b4a70045/orig)
+
 This is a NestJS application for managing shipments. It uses TypeORM for database interactions and is configured to work with a MySQL database.
 
 ## Prerequisites
